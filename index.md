@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Building Ecology Lab
 
 You can use the [editor on GitHub](https://github.com/mdonofrio/Building_Ecology_Lab/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
